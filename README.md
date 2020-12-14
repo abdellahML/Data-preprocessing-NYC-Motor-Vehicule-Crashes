@@ -28,9 +28,6 @@ Based on the the profiling report, I have implemented the following required ste
 
 ## Python Libraries
 
-The needed libraries are in the requirement.txt. To install it, use the command below:  
-
-`python -m pip install -r requirements.txt`  
 
 I used pandas, numpy, pandas_profiling, scipy.spatial.distance and datetime modules : 
 ```
